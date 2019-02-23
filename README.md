@@ -39,4 +39,12 @@ Clone this repo by typing following command:
 ```
 git clone https://github.com/abinash124/Binary-Classification--Machine-Learning.git
 
+
 ```
+
+Go to the source code directory and run
+```
+python main.py
+```
+
+Enjoy coding!!
