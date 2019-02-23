@@ -26,13 +26,13 @@ or
 conda install scikit-learn
 ```
 
-For more details you can check documentation of scikit-learn [here] (http://scikit-learn.org/stable/install.html).
-Checkout the [changelog] (http://scikit-learn.org/dev/whats_new.html) for details of notable changes in ScikitLearn.
+For more details you can check documentation of scikit-learn [here](http://scikit-learn.org/stable/install.html).
+Checkout the [changelog](http://scikit-learn.org/dev/whats_new.html) for details of notable changes in ScikitLearn.
 
 ## Algorithm used:
 XGBoost: XGBoost is optimized gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. 
 
-[Reference here] (https://xgboost.readthedocs.io/en/latest/ )
+[Reference here](https://xgboost.readthedocs.io/en/latest/ )
 # Source code 
 
 Clone this repo by typing following command:
