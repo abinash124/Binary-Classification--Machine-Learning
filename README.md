@@ -1,10 +1,10 @@
-### General Binary Classification using XGBooster
+# General Binary Classification using XGBooster
 
 
 This repository contains code for binary classification of real data with missing values(replaced with ?) and without missing values. 
 
 
-# Dependencies
+## Dependencies
 ```
 Numpy - Python library to support various functionalities for arrays and higher dimensions matrix
 Pandas - Python library to support data analysis. Used in the project to read csv file
@@ -17,7 +17,7 @@ For running the code, Python (>= 3.5), NumPy (>= 1.11.0) and SciPy (>= 0.17.0) i
 
 
 
-# Installation guide:
+## Installation guide:
 
 After installing numpy,pandas and matplotlib, scikitlearn can be downloaded using following command ::
 ```
@@ -26,9 +26,17 @@ or
 conda install scikit-learn
 ```
 
-For more details you can check documentation of scikit-learn `here <http://scikit-learn.org/stable/install.html>`_.
-Checkout the `changelog <http://scikit-learn.org/dev/whats_new.html>`__ for details of notable changes in ScikitLearn.
+For more details you can check documentation of scikit-learn [here] (http://scikit-learn.org/stable/install.html).
+Checkout the [changelog] (http://scikit-learn.org/dev/whats_new.html) for details of notable changes in ScikitLearn.
 
+## Algorithm used:
+XGBoost: XGBoost is optimized gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. 
+
+[Reference here] (https://xgboost.readthedocs.io/en/latest/ )
 # Source code 
 
-Clone this repo
+Clone this repo by typing following command:
+```
+git clone https://github.com/abinash124/Binary-Classification--Machine-Learning.git
+
+```
