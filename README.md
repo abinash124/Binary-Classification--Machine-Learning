@@ -26,4 +26,9 @@ or
 conda install scikit-learn
 ```
 
-For more details you can check documentation of scikit-learn `here <http://scikit-learn.org/stable/install.html>`_
+For more details you can check documentation of scikit-learn `here <http://scikit-learn.org/stable/install.html>`_.
+Checkout the `changelog <http://scikit-learn.org/dev/whats_new.html>`__ for details of notable changes in ScikitLearn.
+
+# Source code 
+
+Clone this repo
